@@ -23,7 +23,13 @@
             'icon': 'fa-user',
             'name': 'About',
             'route': '/about'
-        }
+        },
+        {
+            'id': 3,
+            'icon': 'fa-profile',
+            'name': 'Login',
+            'route': '/login'
+        },
     ];
 
     export default {
